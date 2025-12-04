@@ -10,6 +10,7 @@
 - Quiroz Sandoval Juan Pablo  
 
 **Profesor:** Juan Luis Carrillo García  
+**Actividad:** Proyecto final | Aplicación movil
 **Fecha:** 3 de diciembre del 2025  
 
 ---
