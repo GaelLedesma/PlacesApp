@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577856668170",
+    "project_id": "projectofinal20",
+    "storage_bucket": "projectofinal20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577856668170:android:b452738549b1f1e17b15f3",
+        "android_client_info": {
+          "package_name": "com.unitec.projectofinalequipo20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdKkUwzPAWmQ32jI7a340zRGa6AmeckYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
